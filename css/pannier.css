@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-image: url('../image/394541-jett-valorant-game-4k-pc-wallpaper.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+header {
+    display: flex;
+    padding: 1.7rem 1rem;
+    background-color: #cebfbf85;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    margin: auto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding: 0;
+    background-color: transparent;
+    overflow: hidden;
+}
+
+li {
+    padding: 0rem 1.1rem;
+    float: left;
+}
+
+li a {
+    color: #2f002c;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: .7px;
+}
+
+li a:hover {
+    color: #e3131d71;
+    transition: all .3s ease-in-out
+}
