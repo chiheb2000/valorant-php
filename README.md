@@ -1,6 +1,6 @@
 # Valorant PHP 🎮
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6021fe76-8865-4ce3-b479-cf7e7a5f322f" alt="valo" width="600">
+  <img src="https://github.com/user-attachments/assets/6021fe76-8865-4ce3-b479-cf7e7a5f322f" alt="valo" width="250">
 </div>
 **Valorant PHP** est une plateforme en ligne permettant aux utilisateurs d'acheter des produits liés au jeu **Valorant**. Les utilisateurs peuvent créer un compte, parcourir les produits disponibles, et finaliser leurs achats directement sur le site. En outre, une section administrateur permet de gérer les produits, de fixer les prix, de surveiller les stocks, et d'accéder aux statistiques des ventes. Le site propose également un quiz sur Valorant pour les passionnés du jeu.
 
