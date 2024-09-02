@@ -11,7 +11,7 @@
 - **Tableau de bord administrateur** 🛠 : Les administrateurs peuvent ajouter de nouveaux produits, modifier les prix, gérer les stocks, et consulter les statistiques des ventes.
 
 ## Vidéo Démo 🎥
-
+https://github.com/user-attachments/assets/ab7de65b-2c03-40c8-86c7-38e6007202ce
 
 ## Contact 📬
 
